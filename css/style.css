@@ -3,11 +3,18 @@ body{
     margin: 0%;
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 20px;
+}
 .orenge{
     color: orange;
 }
 section{
     display: flex;
+    padding-bottom: 150px;
 }
 
 .hire-button{
